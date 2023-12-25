@@ -1,4 +1,4 @@
-# ecdsa_motoko
+# ecdsa_poc
 
 Just for learning, Do not use in production environment.
 
