@@ -1,5 +1,9 @@
 # ecdsa_motoko
 
+Just for learning, Do not use in production environment.
+
+Without performance optimization, verifying two signatures in one call will cause the instruction limit to be exceeded.
+
 ```bash
 # Starts the replica, running in the background
 dfx start --background
